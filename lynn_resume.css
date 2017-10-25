@@ -1,0 +1,37 @@
+body {
+    font-size: 24px;
+    color: black;
+	background:rgb(100,0,200);
+}
+
+p {
+	color:aqua;
+}
+
+.links{
+	color: white;
+}
+.visited{
+	color: rgb(30,30,30);
+}
+a:hover{
+	background-color: black;
+	color:red;
+}
+.active{
+	color:olive;
+}
+#contact{
+	color:rgb(0,0,10);
+}
+	
+
+/*indent months*/
+.months{
+	text-indent:600px;
+
+}
+h2 {font-size: 50px;
+padding-right: 300px;
+padding-left:475px;
+}
